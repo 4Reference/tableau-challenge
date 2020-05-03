@@ -2,7 +2,7 @@
 I added the .twb notebook to tableau public @ https://public.tableau.com/profile/christopher.armstrong#!/vizhome/citibike_15884576542900/Story1
 
 The CSV's were too large to upload.
-![DataFlow](/DataPrep Union.png)
+![DataFlow](/DataPrep%20Union.png)
 
 # Tableau Homework - Citi Bike Analytics
 
