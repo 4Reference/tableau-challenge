@@ -1,7 +1,7 @@
 # tableau-challenge
 I added the .twb notebook to tableau public @ https://public.tableau.com/profile/christopher.armstrong#!/vizhome/citibike_15884576542900/Story1
 
-The CSV's were too large to upload.
+The CSV's were too large to upload. I used Data Prep Builder to clean and merges hte CSV's into a .tde file. Flow file included.
 ![DataFlow](/DataPrep%20Union.png)
 
 # Tableau Homework - Citi Bike Analytics
